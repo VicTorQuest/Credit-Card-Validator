@@ -24,6 +24,7 @@ A JavaScript utility that validates credit card numbers and identifies the card 
 
 Clone the repository and run the script using Node.js
 
-```bash git clone https://github.com/VicTorQuest/Credit-Card-Validator.git 
-cd yourrepository 
+```bash
+git clone https://github.com/VicTorQuest/Credit-Card-Validator.git 
+cd /path/to/the/repository/ 
 node index.js
